@@ -293,20 +293,28 @@ Las visualizaciones más relevantes del proyecto fueron:
 ## ROMI por fuente de adquisición
 
 Permite comparar rápidamente la eficiencia de las diferentes fuentes publicitarias y detectar cuáles recuperan mejor la inversión realizada.
+<img width="1299" height="790" alt="image" src="https://github.com/user-attachments/assets/01898c09-71f1-4925-b58c-8f1830ab9d66" />
+
 
 ## Retención por cohortes
 
 Muestra cómo evoluciona la actividad de los usuarios durante los meses posteriores a su adquisición.
+<img width="1394" height="790" alt="image" src="https://github.com/user-attachments/assets/cc71c19a-8178-4124-bebf-31ba8e6c5c80" />
+
 
 ## LTV por cohorte
 
 Permite identificar cuánto valor generan los clientes y cómo evoluciona dicho valor con el paso del tiempo.
+<img width="1381" height="790" alt="image" src="https://github.com/user-attachments/assets/977487c2-6e13-418e-82e3-b74655b61a6a" />
+
 
 ## Tiempo hasta la primera compra
 
 Permite visualizar qué tan rápido ocurre la conversión después de la primera visita.
+<img width="1404" height="790" alt="image" src="https://github.com/user-attachments/assets/e63ed6e1-fcaa-456b-a005-06c63b3b3c25" />
+<img width="1394" height="790" alt="image" src="https://github.com/user-attachments/assets/75871d20-8f34-4b18-84d6-9585ecf3f971" />
 
----
+
 
 # 8. 📁 Estructura del proyecto
 
