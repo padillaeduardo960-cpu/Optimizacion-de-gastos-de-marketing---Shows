@@ -1,4 +1,4 @@
-# 🎟️ Optimización de gastos de marketing para Showz
+# 🎟️ Optimización de gastos de marketing - Showz
 
 ## 📌 Descripción del proyecto
 
